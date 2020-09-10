@@ -1,0 +1,3 @@
+Đkí tài khoản heroku
+đkí tài khoản github(sử dụng mail edu cũng được)
+vào link https://devcenter.heroku.com/articles/github-integration làm theo hướng dẫn
